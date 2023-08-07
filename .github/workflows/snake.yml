@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
@@ -22,13 +25,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.SNAKE }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          message: 'Generate Contribution Snake'
-        env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE }}
+        #   message: 'Generate Contribution Snake'
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.SNAKE }}
