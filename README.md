@@ -1,6 +1,11 @@
-### Hi there 👋
+### 大家好 👋
 
-![](https://cdn.jsdelivr.net/gh/hihihiman/hihihiman/github-contribution-grid-snake.svg)
+- 🔭 我目前就读于浙江工业大学计算机学院
+- ☕️ 我未来将从事 Java 后端开发
+- 🌱 我正在进行用户画像和推荐算法的相关研究
+- 📫 我的邮箱: dujianghui_work@163.com
+
+![]([https://cdn.jsdelivr.net/gh/hihihiman/hihihiman/github-contribution-grid-snake.svg](https://cdn.jsdelivr.net/gh/hihihiman/hihihiman@output/github-contribution-grid-snake.svg))
 
 <!--
 **hihihiman/hihihiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
