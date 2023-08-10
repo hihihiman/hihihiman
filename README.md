@@ -4,6 +4,7 @@
 - ☕️ 我未来将从事 Java 后端开发
 - 🌱 我正在进行用户画像和推荐算法的相关研究
 - 📫 我的邮箱: dujianghui_work@163.com
+- ⚡ 我的主页：https://www.leni.fun/
 
 ![](https://cdn.jsdelivr.net/gh/hihihiman/hihihiman@output/github-contribution-grid-snake.svg)
 <!--
