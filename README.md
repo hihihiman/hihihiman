@@ -6,7 +6,7 @@
 - 📫 我的邮箱: dujianghui_work@163.com
 - ⚡ 我的主页：https://www.leni.fun/
 
-![](https://cdn.jsdelivr.net/gh/hihihiman/hihihiman@output/github-contribution-grid-snake.svg)
+![](https://github.com/hihihiman/hihihiman/blob/output/github-contribution-grid-snake.svg)
 <!--
 **hihihiman/hihihiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
